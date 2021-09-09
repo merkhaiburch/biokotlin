@@ -1,0 +1,3 @@
+Get help documentation on a function in kotlin 
+
+shift+tab will pull up docs in jupyter python on the function your cursor is on
